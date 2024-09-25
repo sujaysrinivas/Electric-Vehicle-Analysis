@@ -2,11 +2,33 @@
 
 ![EV](https://github.com/user-attachments/assets/0cc3beb9-a869-499f-b745-f1198d6e3a11)
 
+### Objective
+
+The primary objective of this project is to analyze the sales of the Electric Vehicles sold in the United States and deliver key 
+insights
+
+### Data Source
+
+Analytics Data: The data set used for analysis is the Electric_vehicle_cleaned_data.csv
+
+### Tools
+
+Python for data cleaning and Tableau - Data Visualization
+
+### Data Cleaning
+
+The following steps were performed in the Data Cleaning phase using Python:
+
+### Data Analysis
+
+The Data analysis process delivered the following insights:
+
 1. Top 10 Vehicles by Make
    ![Screenshot (921)](https://github.com/user-attachments/assets/841d4163-0198-402b-ab34-8bffe49e79fa)
 Each bar represents a vehicle manufacturer (make) with the total number of vehicles attributed to that make.
-        The length of the bar correlates with the number of vehicles, providing a clear visual comparison.
+The length of the bar correlates with the number of vehicles, providing a clear visual comparison.
 The above fig delivers the following insights:
+
 * Top 10 Vehicle Makes:
   The top vehicle makes are listed from highest to lowest in terms of the number of vehicles sold.
 
@@ -32,7 +54,7 @@ Key Insights:
     Nissan and Chevrolet: While Nissan and Chevrolet are significant players, their vehicle numbers are a fraction of Tesla's, indicating a much smaller market share.
     Market Concentration: The top three manufacturers (Tesla, Nissan, and Chevrolet) represent a substantial portion of the market, while the remaining companies contribute significantly fewer vehicles.
 
-3. Total Vehicles by CAFV Eligibility
+2. Total Vehicles by CAFV Eligibility
    ![Screenshot (923)](https://github.com/user-attachments/assets/4df6e08c-4315-4800-8d92-9c40a66cff20)
 
        Bar Graph Representation:
@@ -60,7 +82,7 @@ Observations:
    ![Screenshot (924)](https://github.com/user-attachments/assets/1915d96a-6fa8-49c7-85cd-30c3677e08d5)
    
 
-5. Total Vehicles Sold by Year
+4. Total Vehicles Sold by Year
    ![Screenshot (925)](https://github.com/user-attachments/assets/3b70ab49-0462-423b-9795-dfda550ac726)
        Area Chart Representation:
         The green shaded area shows the total vehicle sales across different years. The area expands as the sales numbers grow over time.
@@ -89,7 +111,7 @@ Key Insights:
     Volatility: The decline in 2019 and the sharp drop in 2024 reflect fluctuations in the market, potentially due to economic factors, shifts in consumer demand, or other external events.
     Data Gap in 2024: The dramatic drop in 2024 may suggest incomplete data for the year or a major market disruption that impacted sales.
 
-7. City Wise Total PHEV
+5. City Wise Total PHEV
    ![Screenshot (922)](https://github.com/user-attachments/assets/550c64a5-d97e-427d-b23f-3eb742076d4a)
 
 
