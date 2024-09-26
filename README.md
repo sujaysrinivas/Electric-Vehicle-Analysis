@@ -1,4 +1,6 @@
 # Electric Vehicle Data Analysis
+![Screenshot (920)](https://github.com/user-attachments/assets/c301a5ec-1efd-41d1-a297-9e627748a5f6)
+
 
 ### Background and Overview
 
