@@ -102,8 +102,43 @@ The decline in 2019, followed by the sharp drop in 2024, highlights volatility i
 The steep decrease in sales in 2024 suggests either incomplete data or significant market upheaval. Further investigation is needed to confirm whether this drop is due to missing data or an actual decline in vehicle sales.
 
 #### Total Vehicles by State
+![Screenshot (928)](https://github.com/user-attachments/assets/59d6f3f7-4263-4faa-840d-fd8f1ca59d8b)
+The visual is a map representing the total number of vehicles by state in the United States. Here’s an analysis of the map:
+
+•	Color Coding:
+The map uses different shades of green to indicate the number of vehicles. Darker shades represent states with a higher number of vehicles, while lighter shades indicate fewer vehicles.
+
+Key Observations:
+•	Washington (WA) has the highest number of vehicles, with a count of 130,527, indicated by the darkest shade of green.
+•	California (CA) has 80 vehicles, while Virginia (VA) has 33 vehicles, followed by Maryland (MD) with 27.
+•	Most other states have very low numbers, typically between 1 to 10 vehicles, with some states like Montana (MT), Mississippi (MS), Nebraska (NE), and others having just 1 vehicle.
+
+Geographic Trends:
+•	The Western U.S. has some high counts, with Washington being a standout.
+•	The Eastern and Southern states have moderate vehicle counts, while the Midwest and central states generally show lower counts.
+
+Insights:
+•	There is a significant concentration of vehicles in Washington compared to other states.
+•	The distribution is not even, with many states having very low vehicle counts.
+•	It is unclear what the dataset specifically represents (e.g., electric vehicles, a specific vehicle type, etc.), but the disparity in numbers suggests it may be related to a niche segment rather than all vehicles
+
 
 #### City wise Total PHEV
+![Screenshot (929)](https://github.com/user-attachments/assets/faa0593b-9e33-493c-93f0-ccc76eb4b242)
+The visual is a bar chart showing the total number of Plug-in Hybrid Electric Vehicles (PHEVs) by city.
+City-wise Distribution:
+•	Seattle has the highest number of PHEVs, totaling 4,330. This is significantly higher than any other city in the chart.
+•	Vancouver comes next with 1,091 PHEVs, which is about a quarter of the count in Seattle.
+•	Other cities follow with lower counts: Bellevue (810), Olympia (695), Tacoma (639), Kirkland (561), Redmond (545), Bothell (503), Renton (468), and Sammamish (421).
+
+Color Coding:
+        The bars are shaded in different tones of green, with darker shades representing higher PHEV counts. This provides a quick visual cue to compare the relative number of PHEVs across the cities.
+
+Insights:
+•	Seattle is a major hub for PHEVs, possibly due to infrastructure, environmental policies, or demographics favoring such vehicles.
+•	There is a noticeable drop in the number of PHEVs after Seattle and Vancouver, indicating that PHEV adoption might be more concentrated in specific cities.
+•	The other cities show a relatively even distribution, with numbers ranging from around 400 to 800 vehicles.
+
 
 ### Insights and Recommendations
 
