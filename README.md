@@ -8,6 +8,7 @@ The primary objective of this data analysis project is to examine electric vehic
 ### Data Source 
 
 Dataset: The data set used for analysis is the Electric_vehicle_cleaned_data.csv
+Link to the dataset: [kaggle.com](https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data?select=Electric_Vehicle_Population_Data.csv)
 
 ### Tools
 
