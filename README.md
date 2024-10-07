@@ -1,9 +1,27 @@
 # Electric Vehicle Data Analysis
 ![Screenshot (920)](https://github.com/user-attachments/assets/c301a5ec-1efd-41d1-a297-9e627748a5f6)
 
-### Objective
+## Project Overview
+
+### Business Problem
 
 The primary objective of this data analysis project is to examine electric vehicle sales across the United States and extract key insights that can inform business decisions, identify market trends, and highlight areas for growth and optimization
+
+### Insights and Recommendations
+
+#### 1. Tesla's Market Dominance:
+Tesla continues to lead the electric vehicle (EV) market, outpacing key competitors such as Toyota, Nissan, Ford, and BMW. To remain competitive and capture a significant market share, these manufacturers must prioritize building a robust EV infrastructure while scaling up production and driving innovation. Increased competition within the EV space will stimulate advancements in technology, resulting in higher-quality products at more competitive prices for consumers.
+
+#### 2. CAFV Eligibility Shortfalls:
+A significant portion of vehicles in the market currently fail to meet the Clean Alternative Fuel Vehicle (CAFV) eligibility criteria, making them less attractive and competitive. To remain relevant and aligned with industry standards, EV manufacturers must focus on improving compatibility with CAFV requirements. This will enhance the desirability of their vehicles and contribute to broader adoption within the market.
+
+#### 3. EV Growth and Government Support:
+The EV sector has experienced substantial growth since 2023, with increasing consumer demand driving sales. To sustain this momentum, government initiatives promoting EV adoption, such as subsidies and incentives, will be crucial in making electric vehicles more affordable and accessible to a wider audience. This would not only boost sales but also accelerate the transition to sustainable transportation.
+
+#### 4. PHEV Concentration in Seattle and Surrounding Areas:
+Seattle has emerged as a key hub for plug-in hybrid electric vehicles (PHEVs), likely due to favorable infrastructure, environmental policies, and demographic trends. However, beyond Seattle and Vancouver, there is a notable decline in PHEV adoption, suggesting that the concentration of these vehicles is limited to specific regions. Expanding PHEV infrastructure and incentives in other cities could help address this disparity and increase nationwide adoption.
+
+## Detailed Analysis
 
 ### Data Source 
 
@@ -86,19 +104,7 @@ Utilized Python for Data cleaning and Tableau for Data Visualization
 * There is a noticeable drop in the number of PHEVs after Seattle and Vancouver, indicating that PHEV adoption might be more concentrated in specific cities.
 * The other cities show a relatively even distribution, with numbers ranging from around 400 to 800 vehicles.
 
-### Insights and Recommendations
 
-#### 1. Tesla's Market Dominance:
-Tesla continues to lead the electric vehicle (EV) market, outpacing key competitors such as Toyota, Nissan, Ford, and BMW. To remain competitive and capture a significant market share, these manufacturers must prioritize building a robust EV infrastructure while scaling up production and driving innovation. Increased competition within the EV space will stimulate advancements in technology, resulting in higher-quality products at more competitive prices for consumers.
-
-#### 2. CAFV Eligibility Shortfalls:
-A significant portion of vehicles in the market currently fail to meet the Clean Alternative Fuel Vehicle (CAFV) eligibility criteria, making them less attractive and competitive. To remain relevant and aligned with industry standards, EV manufacturers must focus on improving compatibility with CAFV requirements. This will enhance the desirability of their vehicles and contribute to broader adoption within the market.
-
-#### 3. EV Growth and Government Support:
-The EV sector has experienced substantial growth since 2023, with increasing consumer demand driving sales. To sustain this momentum, government initiatives promoting EV adoption, such as subsidies and incentives, will be crucial in making electric vehicles more affordable and accessible to a wider audience. This would not only boost sales but also accelerate the transition to sustainable transportation.
-
-#### 4. PHEV Concentration in Seattle and Surrounding Areas:
-Seattle has emerged as a key hub for plug-in hybrid electric vehicles (PHEVs), likely due to favorable infrastructure, environmental policies, and demographic trends. However, beyond Seattle and Vancouver, there is a notable decline in PHEV adoption, suggesting that the concentration of these vehicles is limited to specific regions. Expanding PHEV infrastructure and incentives in other cities could help address this disparity and increase nationwide adoption.
 
 
 
